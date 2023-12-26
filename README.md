@@ -1,6 +1,6 @@
-<h3 align="center">Привет, меня зовут Александр
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/></h3>
-<h4 align="center">Я - выпускник Яндекс.Практикума, факультета веб-разработки</h4>
+<h2 align="center">Привет, меня зовут Александр
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/></h2>
+<h3 align="center">Я - выпускник Яндекс.Практикума, факультета веб-разработки</h3>
 
 - 💁 Стараюсь вести активный и здоровый образ жизни. Увлекаюсь путешествиями, кинематографом, музыкой, фотографией
 
@@ -8,7 +8,7 @@
 
 - ✨ Каждый день изучаю новые технологии
 
-<h5>Мой стек:</h5>
+<h3>Мой стек:</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,6 +35,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-<h5>Моя статистика:</h5>
+<h4>Моя статистика:</h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parfion&layout=donut)](https://github.com/parfion/github-readme-stats)
